@@ -17,8 +17,8 @@ if (producto === "playstation 5") {
 
 const DoceSinInteres = x => x / 12;
 
-let valorCuota= DoceSinInteres (producto)
-alert (`El valor de cada cuota del producto es: ${valorCuota}`)
+let valorCuota= DoceSinInteres (producto);
+alert (`El valor de cada cuota del producto es: ${valorCuota}`);
 
 
 
